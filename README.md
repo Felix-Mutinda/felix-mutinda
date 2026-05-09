@@ -19,9 +19,9 @@ I architect production ML infrastructure for regulated industries at enterprise 
 
 **Cloud & Infra**: AWS (SageMaker, Glue, Lambda), Kubernetes, Terraform, Docker, MicroK8s, Juju  
 **Data Platforms**: Apache Doris, PostgreSQL, DuckDB, Redis, Kafka, Spark, dbt Core, MetricFlow  
-**ML Tooling**: Charmed Kubeflow, MLRun, Feature Store patterns, Model registry & lineage, Prometheus & Grafana
-**ML Frameworks**: Scikit-learn, XGBoost, LightGBM | PyTorch, TensorFlow/Keras | LangChain, LlamaIndex, LangGraph, LangSmith
-**Governance**: OWASP ML Top 10, NIST AI RMF, CIS Controls v8, MITRE ATLAS, OPA/Rego
+**ML Tooling**: Charmed Kubeflow, MLRun, Feature Store patterns, Model registry & lineage, Prometheus & Grafana  
+**ML Frameworks**: Scikit-learn, XGBoost, LightGBM | PyTorch, TensorFlow/Keras | LangChain, LlamaIndex, LangGraph, LangSmith  
+**Governance**: OWASP ML Top 10, NIST AI RMF, CIS Controls v8, MITRE ATLAS, OPA/Rego  
 
 ---
 
