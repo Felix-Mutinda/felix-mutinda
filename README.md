@@ -1,17 +1,17 @@
 # Felix Isaiah
 
-**ML Platform Architect** | Feature Infrastructure | DevSecMLOps
+**ML Platform Architect** | DevSecMLOps
 
-I architect production ML infrastructure for regulated industries at enterprise scale; specializing in feature platforms, governance-by-design, and DevSecMLOps patterns that enable velocity without compromising security or observability. Currently building distributed feature engineering platforms at **Safaricom** (50M+ users, 50+ data science teams).
+I architect production ML infrastructure for regulated industries at enterprise scale; specializing in feature platforms, governance-by-design, and DevSecMLOps patterns that enable velocity without compromising security or observability.
 
 ---
 
-## What I Build
+## What I Build & Why
 
-- **Multi-tenant Feature Platforms**: Configuration-driven infrastructure with contract-first SDKs, zero-migration adoption, and automatic lineage
-- **Governance-by-Design**: PII detection/masking (HMAC-SHA256, AST inspection) embedded in feature pipelines; compliance as code
-- **Unified ML Observability**: Correlating model performance, data drift, and infrastructure health; reducing MTTR by ~90%
-- **DevSecMLOps Pipelines**: CI/CD aligned to OWASP ML Top 10, NIST AI RMF, CIS Controls v8; security gates as default
+- **Multi-tenant ML Platforms** : Eliminate siloed infrastructure that fragments model delivery and inflates operational cost. *Impact*: Cuts time-to-production from 3–4 weeks to 5–7 days while enabling secure, governed reuse across teams without coordination overhead.
+- **Governance-by-Design Systems** : Remove manual compliance reviews that slow experimentation and create audit risk. *Impact*: Embeds PII controls and lineage directly into pipelines, eliminating manual review steps while preserving developer velocity.
+- **Unified ML Observability** : Shift from reactive firefighting to proactive model reliability. *Impact*: Correlates performance, drift, and infrastructure health to reduce mean-time-to-recovery by ~90% and prevent customer-impacting outages.
+- **DevSecMLOps Pipelines** : Make security and compliance automatic, not post-deployment gates. *Impact*: Aligns CI/CD to OWASP/NIST/CIS standards, reducing critical vulnerability escape rates to near-zero without slowing release cycles.
 
 ---
 
