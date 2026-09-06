@@ -1,34 +1,36 @@
-# Felix Isaiah
-**ML Platform Architect** | DevSecMLOps | Agentic Infrastructure
+# Felix Mutinda
 
-I architect production ML and AI infrastructure for regulated industries at enterprise scale. I specialize in platform engineering, governance-by-design, and DevSecMLOps patterns that enable velocity without compromising security or observability.
+**ML Platform Engineer - MLOps & Data Infrastructure**
 
-## 🛠️ What I Build & Impact
+I work on production ML platforms: feature pipelines, model serving, and the
+observability and governance layers around them. Lately I'm spending most of
+my time on agentic infrastructure - orchestration, cross-agent memory, and
+guardrails for running autonomous agents safely in production.
 
-*   **Multi-tenant ML Platforms:** Eliminated siloed infra to enable secure, governed model reuse across 10+ engineering teams.
-    *   *Impact: Cut time-to-production from 3-4 weeks to 5 days.*
-*   **Governance-by-Design:** Embedded PII controls and lineage directly into pipelines, replacing manual compliance reviews.
-    *   *Impact: Zero audit risk with no loss in developer velocity.*
-*   **Unified Observability:** Correlated model drift, performance, and infra health to shift from reactive firefighting to proactive reliability.
-    *   *Impact: Reduced MTTR by ~90% and prevented customer-impacting outages.*
-*   **DevSecMLOps:** Aligned CI/CD to OWASP/NIST/CIS standards, making security automatic rather than a post-deployment gate.
-    *   *Impact: Near-zero critical vulnerability escape rates without slowing releases.*
+## What I work on
 
-## 🤖 Current Focus: Agentic Infrastructure
-Building the layer most AI teams build last: governed agent orchestration, cross-agent memory, and structural prompt injection controls to make autonomous AI safe for production.
+- **ML platform patterns** - multi-tenant model serving, feature stores, governance-by-design
+- **Data pipelines** - orchestration with dbt and Airflow, batch and streaming
+- **MLOps tooling** - CI/CD for ML, model registries, drift and performance monitoring
+- **Agentic infrastructure** - agent orchestration, cross-agent memory sync, prompt-injection guardrails
 
-## 🧰 Tech Stack
+## Projects
 
-*   **Cloud & Infra:** AWS (SageMaker, Glue, Lambda), Kubernetes, Terraform, Docker, MicroK8s, Juju
-*   **Data Platforms:** Apache Doris, PostgreSQL, DuckDB, Redis, Kafka, Spark, dbt Core, MetricFlow
-*   **ML & AI Tooling:** Charmed Kubeflow, MLRun, Feature Stores, Model Registry, Prometheus, Grafana
-*   **LLM Frameworks:** LangChain, LlamaIndex, LangGraph, LangSmith, PyTorch, TensorFlow
-*   **Governance:** OWASP ML Top 10, NIST AI RMF, CIS Controls v8, MITRE ATLAS, OPA/Rego
+- [**fti-continuous-ml**](https://github.com/Felix-Mutinda/fti-continuous-ml) - Continuous model training using the FTI (feature/train/inference) framework
+- [**orchestrate-dbt-on-airflow**](https://github.com/Felix-Mutinda/orchestrate-dbt-on-airflow) - dbt on Airflow via Astronomer Cosmos, with local DuckDB dev and Feast materialization
+- [**kubernetes-for-ml-engineers**](https://github.com/Felix-Mutinda/kubernetes-for-ml-engineers) - Stand up an ML platform on a laptop/VM, promote it by changing one endpoint
+- [**strata-ai**](https://github.com/Felix-Mutinda/strata-ai) - SDK for enterprise AI agents, APIs, and ML pipeline contracts
+- [**hermify-mcp**](https://github.com/Felix-Mutinda/hermify-mcp) - Cross-agent skill and memory sync over MCP
+- [**duka-ai**](https://github.com/Felix-Mutinda/duka-ai) - Simulated, guardrail-first support assistant for a fictional Nairobi electronics shop
 
-## 🔗 Connect
+## Stack
 
-*   **LinkedIn:** [linkedin.com/in/felix-isaiah](https://linkedin.com/in/felix-isaiah-9a026b158)
-*   **Writing:** [AI System Design (Substack)](https://felixmt.substack.com)
-*   **Portfolio:** [felix-mutinda.github.io](https://felix-mutinda.github.io)
+AWS · Kubernetes · Terraform · Docker · Kafka · Spark · dbt · PostgreSQL · Feast · LangGraph · PyTorch
 
-> *"The best platform architecture solves constraints, not just technical problems."*
+## Writing
+
+I write about ML platform and agent infrastructure design at [felixmt.substack.com](https://felixmt.substack.com).
+
+## Connect
+
+[GitHub](https://github.com/Felix-Mutinda) · [Substack](https://felixmt.substack.com) · [LinkedIn](https://www.linkedin.com/in/felix-isaiah-9a026b158/)
