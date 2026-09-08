@@ -1,6 +1,6 @@
 # Felix Mutinda
 
-**ML Platform Engineer - MLOps & Data Infrastructure**
+**ML Engineer - MLOps & Data Infrastructure**
 
 I work on production ML platforms: feature pipelines, model serving, and the
 observability and governance layers around them. Lately I'm spending most of
