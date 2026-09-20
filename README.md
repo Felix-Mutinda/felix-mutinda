@@ -19,6 +19,7 @@ guardrails for running autonomous agents safely in production.
 - [**fti-continuous-ml**](https://github.com/Felix-Mutinda/fti-continuous-ml) - Continuous model training using the FTI (feature/train/inference) framework
 - [**orchestrate-dbt-on-airflow**](https://github.com/Felix-Mutinda/orchestrate-dbt-on-airflow) - dbt on Airflow via Astronomer Cosmos, with local DuckDB dev and Feast materialization
 - [**kubernetes-for-ml-engineers**](https://github.com/Felix-Mutinda/kubernetes-for-ml-engineers) - Stand up an ML platform on a laptop/VM, promote it by changing one endpoint
+- [**the-arrow-ecosystem**](https://github.com/Felix-Mutinda/the-arrow-ecosystem) - A self-hosted lab covering the Apache Arrow ecosystem layer by layer - client API (ADBC), wire protocol (Arrow Flight SQL), query engine, and object storage
 - [**strata-ai**](https://github.com/Felix-Mutinda/strata-ai) - SDK for enterprise AI agents, APIs, and ML pipeline contracts
 - [**hermify-mcp**](https://github.com/Felix-Mutinda/hermify-mcp) - Cross-agent skill and memory sync over MCP
 - [**duka-ai**](https://github.com/Felix-Mutinda/duka-ai) - Simulated, guardrail-first support assistant for a fictional Nairobi electronics shop
