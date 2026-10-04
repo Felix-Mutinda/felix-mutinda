@@ -17,6 +17,7 @@ guardrails for running autonomous agents safely in production.
 ## Projects
 
 - [**fti-continuous-ml**](https://github.com/Felix-Mutinda/fti-continuous-ml) - Continuous model training using the FTI (feature/train/inference) framework
+- [**data-quality-and-lineage**](https://github.com/Felix-Mutinda/data-quality-and-lineage) - From a failing data quality test to its blast radius: triage with dbt, then across tool boundaries with OpenLineage and Marquez
 - [**orchestrate-dbt-on-airflow**](https://github.com/Felix-Mutinda/orchestrate-dbt-on-airflow) - dbt on Airflow via Astronomer Cosmos, with local DuckDB dev and Feast materialization
 - [**kubernetes-for-ml-engineers**](https://github.com/Felix-Mutinda/kubernetes-for-ml-engineers) - Stand up an ML platform on a laptop/VM, promote it by changing one endpoint
 - [**the-arrow-ecosystem**](https://github.com/Felix-Mutinda/the-arrow-ecosystem) - A self-hosted lab covering the Apache Arrow ecosystem layer by layer - client API (ADBC), wire protocol (Arrow Flight SQL), query engine, and object storage
