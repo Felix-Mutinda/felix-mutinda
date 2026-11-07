@@ -16,6 +16,7 @@ guardrails for running autonomous agents safely in production.
 
 ## Projects
 
+- [**instrumenting-ai-agents**](https://github.com/Felix-Mutinda/instrumenting-ai-agents) - AI System Design series: tracing an AI agent with OpenTelemetry
 - [**fti-continuous-ml**](https://github.com/Felix-Mutinda/fti-continuous-ml) - Continuous model training using the FTI (feature/train/inference) framework
 - [**data-quality-and-lineage**](https://github.com/Felix-Mutinda/data-quality-and-lineage) - From a failing data quality test to its blast radius: triage with dbt, then across tool boundaries with OpenLineage and Marquez
 - [**orchestrate-dbt-on-airflow**](https://github.com/Felix-Mutinda/orchestrate-dbt-on-airflow) - dbt on Airflow via Astronomer Cosmos, with local DuckDB dev and Feast materialization
