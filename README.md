@@ -16,19 +16,18 @@ guardrails for running autonomous agents safely in production.
 
 ## Projects
 
+- [**local-ai-inference**](https://github.com/Felix-Mutinda/local-ai-inference) - A custom local AI inference stack: GGUF parser, inference engine, server and OpenAI-compatible API
 - [**instrumenting-ai-agents**](https://github.com/Felix-Mutinda/instrumenting-ai-agents) - AI System Design series: tracing an AI agent with OpenTelemetry
 - [**fti-continuous-ml**](https://github.com/Felix-Mutinda/fti-continuous-ml) - Continuous model training using the FTI (feature/train/inference) framework
 - [**data-quality-and-lineage**](https://github.com/Felix-Mutinda/data-quality-and-lineage) - From a failing data quality test to its blast radius: triage with dbt, then across tool boundaries with OpenLineage and Marquez
 - [**orchestrate-dbt-on-airflow**](https://github.com/Felix-Mutinda/orchestrate-dbt-on-airflow) - dbt on Airflow via Astronomer Cosmos, with local DuckDB dev and Feast materialization
 - [**kubernetes-for-ml-engineers**](https://github.com/Felix-Mutinda/kubernetes-for-ml-engineers) - Stand up an ML platform on a laptop/VM, promote it by changing one endpoint
 - [**the-arrow-ecosystem**](https://github.com/Felix-Mutinda/the-arrow-ecosystem) - A self-hosted lab covering the Apache Arrow ecosystem layer by layer - client API (ADBC), wire protocol (Arrow Flight SQL), query engine, and object storage
-- [**strata-ai**](https://github.com/Felix-Mutinda/strata-ai) - SDK for enterprise AI agents, APIs, and ML pipeline contracts
-- [**hermify-mcp**](https://github.com/Felix-Mutinda/hermify-mcp) - Cross-agent skill and memory sync over MCP
-- [**duka-ai**](https://github.com/Felix-Mutinda/duka-ai) - Simulated, guardrail-first support assistant for a fictional Nairobi electronics shop
+
 
 ## Stack
 
-AWS · Kubernetes · Terraform · Docker · Kafka · Spark · dbt · PostgreSQL · Feast · LangGraph · PyTorch
+AWS · Kubernetes · Terraform · Docker · Kafka · Spark · dbt · PostgreSQL · Feast · LangGraph · PyTorch · GenAI · LLMs
 
 ## Writing
 
